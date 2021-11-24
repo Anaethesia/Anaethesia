@@ -14,6 +14,9 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **nxnslc@gmail.com**
+- Tech: <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> 
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
 
 ![Anaethesia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anaethesia&count_private=true&show_icons=true&theme=radical)
 
