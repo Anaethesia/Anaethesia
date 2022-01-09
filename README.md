@@ -21,5 +21,5 @@
 ![Anaethesia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anaethesia&count_private=true&show_icons=true&theme=radical)
 
 
- [![Anaethesia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anaethesia&layout=compact)](https://github.com/Anaethesia)
+ [![Anaethesia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anaethesia&layout=compact&hide=html)](https://github.com/Anaethesia)
 
