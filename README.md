@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anaethesia](https://github.com/Anaethesia)
 
-- 📝 I regularly write articles on [https://www.cnblogs.com/nxnslc-blog/](https://www.cnblogs.com/nxnslc-blog/)
+- 📝 I regularly write articles on [newblog](https://anaethesia.github.com) and [cnblog](https://www.cnblogs.com/nxnslc-blog/).
 
 - 💬 Ask me about **anything**
 
