@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Go programs**
 
-- 🌱 I’m currently learning **Go programs**
+- 🌱 I’m currently learning **Anything I feel interesting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anaethesia](https://github.com/Anaethesia)
 
